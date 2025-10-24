@@ -1,2 +1,4 @@
 UPSTOX_CLIENT_ID=b5058b36-16dc-47ee-8b28-3802314aaafd
 UPSTOX_CLIENT_SECRET=lrnf2aiu47
+UPSTOX_REDIRECT_URI=https://stockhub-backend-b142.onrender.com/auth/callback
+PORT=8080
